@@ -1,2 +1,2 @@
 # meu-portifolio-cypress
-Exemplos de automação de testes Cypress com IA
+Exemplos de automação de testes Cypress
